@@ -82,11 +82,6 @@ Current balance: $500.0
 This project is open source and free to use under the MIT License.
 
 🙋‍♂️ Author
-Created by @03Sudarshan — contributions welcome!
+Created by @03Sudarshan
 
-yaml
-Copy code
 
----
-
-Let me know if you'd like badges, GIFs, or screenshots added!
